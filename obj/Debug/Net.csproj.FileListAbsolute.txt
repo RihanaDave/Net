@@ -1,0 +1,10 @@
+D:\Develop\Net\bin\Debug\PendarVoIP.dll
+D:\Develop\Net\bin\Debug\PendarVoIP.pdb
+D:\Develop\Net\bin\Debug\Pendar.xml
+D:\Develop\Net\bin\Debug\Logger.dll
+D:\Develop\Net\bin\Debug\Logger.pdb
+D:\Develop\Net\obj\Debug\PendarVoIP.dll
+D:\Develop\Net\obj\Debug\PendarVoIP.pdb
+D:\Folder\PendarVoIP.dll
+D:\Folder\PendarVoIP.pdb
+D:\Folder\Pendar.xml
